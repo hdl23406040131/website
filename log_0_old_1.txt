@@ -1,0 +1,104 @@
+[18:23:30.481]   [CLIENT] Exe module file: D:\game\dwrg\dwrg.exe
+[18:23:30.481]   [CLIENT] Current directory: C:\Users\23682
+[18:23:30.481]   [CLIENT] Initializing client....
+[18:23:30.481]   [CLIENT] Ver:b76fd4f1632900da3af05dd7cebddb0acf1ff853;1546685
+[18:23:30.481]   [CLIENT] Init utils.dll (1671665312)
+
+ERROR *****************************************************************************
+[18:23:30.481]   [UTILS] [ERROR] TinyXml parse error : Error document empty. row 0 col 0
+
+ERROR *****************************************************************************
+[18:23:30.481]   [UTILS] [ERROR] neox.xml not exist or invalid!
+[18:23:32.506] M Succeeded to create FileLoader, opener os, loader npk, root C:\Users\23682\Documents\\res, depth 1
+[18:23:32.507] M Succeeded to create FileLoader, opener os, loader npk, root C:\Users\23682\Documents\\res_reserved, depth 1
+[18:23:32.507] M Succeeded to create FileLoader, opener os, loader discrete, root C:\Users\23682\Documents\\res, depth 1
+[18:23:32.508] M Succeeded to create FileLoader, opener os, loader npk, root C:\Users\23682\\res, depth 1
+[18:23:32.508] M Succeeded to create FileLoader, opener os, loader discrete, root C:\Users\23682\\res, depth 1
+[18:23:32.508] M Succeeded to create FileLoader, opener os, loader npk, root C:\Users\23682\Documents\\script, depth 0
+[18:23:32.508] M Succeeded to create FileLoader, opener os, loader discrete, root C:\Users\23682\Documents\\script, depth 0
+[18:23:32.508] M Succeeded to create FileLoader, opener os, loader npk, root C:\Users\23682\\script, depth 0
+[18:23:32.508] M Succeeded to create FileLoader, opener os, loader discrete, root C:\Users\23682\\script, depth 0
+[18:23:32.508] M Start log.dll
+[18:23:32.508] M Init utils.dll (1671665312)
+[18:23:32.508] M [UTILS] Start utils.dll
+[18:23:32.508] M [UTILS] Init render.dll (2487404089)
+[18:23:32.508] M [UTILS] CPU Name 13th Gen Intel(R) Core(TM) i5-13500H, core count of this device is: 16
+[18:23:32.508] M [UTILS] device model is pc
+[18:23:32.508] M [RENDER] Init python.dll (1335575602)
+[18:23:32.508] M [RENDER] Init audio.dll (1092544220)
+[18:23:32.508] M [RENDER] Init world.dll (2648298854)
+[18:23:32.508] M [RENDER] Init terrain.dll (2572047601)
+[18:23:32.508] M [RENDER] Init landscape.dll (1732276803)
+[18:23:32.508] M [RENDER] Init collision.dll (209534444)
+[18:23:32.508] M [RENDER] Init detour.dll (3413454381)
+[18:23:32.508] M [RENDER] Init ccmini.dll (2370187639)
+[18:23:32.508] M [RENDER] Init voice.dll (2568723357)
+[18:23:32.508] M [RENDER] Init cocosui.dll (1144999243)
+[18:23:32.508] M [RENDER] Init nxdyntex.dll (747103055)
+[18:23:32.508] M [RENDER] Init nxmedia.dll (759505321)
+[18:23:32.508] M [RENDER] Init nxcclive.dll (1938523969)
+[18:23:32.508] M [RENDER] Init nxcef.dll (101830170)
+[18:23:32.508] M [RENDER] Init social.dll (688878058)
+[18:23:32.531] M [RENDER] Win Channel name is netease
+[18:23:32.531] M [RENDER] Init nxapp.dll (939686936)
+[18:23:32.531] M [RENDER] Start render.dll
+[18:23:32.531] M [RENDER] Start python.dll
+[18:23:32.531] M [PYTHON] Start audio.dll
+[18:23:32.531] M [AUDIO] Start world.dll
+[18:23:32.531] M [WORLD] Start terrain.dll
+[18:23:32.531] M [TERRAIN] Start landscape.dll
+[18:23:32.531] M [TERRAIN] Start collision.dll
+[18:23:32.531] M [COLLISION] Start detour.dll
+[18:23:32.531] M [DETOUR] Start ccmini.dll
+[18:23:32.531] M [DETOUR] Start voice.dll
+[18:23:32.531] M [DETOUR] Start cocosui.dll
+[18:23:32.531] M [COCOSUI] Start nxdyntex.dll
+[18:23:32.531] M [COCOSUI] Start nxmedia.dll
+[18:23:32.531] M [COCOSUI] Start nxcclive.dll
+[18:23:32.531] M [COCOSUI] Start nxcef.dll
+[18:23:32.531] M [COCOSUI] Start social.dll
+[18:23:32.531] M [COCOSUI] Start nxapp.dll
+[18:23:32.909] M [COCOSUI] Driver: DirectX 11
+[18:23:32.909] M [COCOSUI] Description: Intel(R) Iris(R) Xe Graphics
+[18:23:32.909] M [COCOSUI] Version: 0.0.0
+[18:23:32.909] M [COCOSUI] Vendor: Intel
+[18:23:32.909] M [COCOSUI] Width: 1334, Height: 750, BitDepth: 32
+[18:23:32.909] M [COCOSUI] -----------------------------------------------------------
+[18:23:32.909] M [COCOSUI] Intel(R) Iris(R) Xe Graphics
+
+ERROR *****************************************************************************
+[18:23:32.909] M [COCOSUI] [ERROR] [shader] ------- missing common\shader\macro_const.xml ----------
+
+ERROR *****************************************************************************
+[18:23:32.909] M [COCOSUI] [ERROR] [shader] ------- engine will set macro internal ----------
+[18:23:32.909] M [COCOSUI] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader/debug_common.fx, tech name: TShader.
+
+ERROR *****************************************************************************
+[18:23:32.909] M [COCOSUI] [ERROR] [shader] super shader file shader\debug_common.nfx is not found!
+
+ERROR *****************************************************************************
+[18:23:32.909] M [COCOSUI] [ERROR] [shader] Technique shader/debug_common.fx::TShader is not found!
+
+ERROR *****************************************************************************
+[18:23:32.909] M [COCOSUI] [ERROR] [shader] super shader file  is not found!
+[18:23:32.909] M [COCOSUI] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader/debug_landscape.nfx, tech name: LandscapeTech.
+
+ERROR *****************************************************************************
+[18:23:32.909] M [COCOSUI] [ERROR] [shader] super shader file shader\debug_landscape.nfx is not found!
+
+ERROR *****************************************************************************
+[18:23:32.909] M [COCOSUI] [ERROR] [shader] Technique shader/debug_landscape.nfx::LandscapeTech is not found!
+
+ERROR *****************************************************************************
+[18:23:32.909] M [COCOSUI] [ERROR] [shader] super shader file  is not found!
+[18:23:32.909] M [COCOSUI] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: common\shader\simpletech.fx, tech name: TShader.
+
+ERROR *****************************************************************************
+[18:23:32.909] M [COCOSUI] [ERROR] [shader] super shader file common\shader\simpletech.nfx is not found!
+
+ERROR *****************************************************************************
+[18:23:32.909] M [COCOSUI] [ERROR] [shader] Technique common\shader\simpletech.fx::TShader is not found!
+
+ERROR *****************************************************************************
+[18:23:32.909] M [COCOSUI] [ERROR] [shader] super shader file  is not found!
+[18:23:32.909] M [COCOSUI] CrashCallback: MemPhys: 26404.6/32507.9
